@@ -35,12 +35,12 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
 - **크롤링 URL** :  
   [KBO Player Hitter Stats](https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx?sort=HRA_RT)
 - 데이터 수집 방법
-![파이썬, 셀레니움](image.png)
+  ![python, selenium image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image.png?raw=true)
 - **데이터 수집(크롤링)코드 URL** :  
   [code](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/KBO_Hitter_data_crawling.py)
 - **데이터 수집 결과 URL** :  
   [csv file](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/kbo_Hitter_data.csv)
-![csv file image](image-2.png)
+  ![csv file image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-2.png?raw=true)
 
 ### 2️⃣ 데이터 전처리
 - 타석 446 이상 타자 데이터만 필터링하여 분석에 적합한 형태로 정제합니다.
@@ -72,16 +72,16 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
 
   - 연도별 타율, 홈런, 장타율 변화 그래프
     - 연도별 타율/홈런 변화 그래프
-    ![연도별 타율/홈런 변화 그래프](image-3.png)
+    ![연도별 타율/홈런 변화 그래프](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-3.png?raw=true)
 
     - 연도별 홈런 변화 그래프
-    ![연도별 홈런 변화 그래프](image-4.png)
+    ![연도별 홈런 변화 그래프](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-4.png?raw=true)
 
     - 연도별 장타율 변화 그래프
-    ![연도별 장타율 변화 그래프](image-5.png)
+    ![연도별 장타율 변화 그래프](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-5.png?raw=true)
 
   - 2025 시즌 예상 팀별 타율 막대그래프
-  ![2025 시즌 예상 팀별 타율 막대그래프](image-6.png)
+  ![2025 시즌 예상 팀별 타율 막대그래프](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-6.png?raw=true)
 
 ## 📊 주요 분석 결론
 
