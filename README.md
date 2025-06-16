@@ -32,13 +32,13 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
 - **KBO 공식 웹사이트**를 기반으로 데이터를 크롤링하며, 수집 대상은 2004년부터 2024년까지의 타자 성적입니다.
 
 - 크롤링한 데이터는 `data/` 디렉토리에 CSV 형식으로 저장됩니다.
-- **크롤링 URL** :  
+- **크롤링 URL**
   [KBO Player Hitter Stats](https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx?sort=HRA_RT)
 - 데이터 수집 방법
   ![python, selenium image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image.png?raw=true)
-- **데이터 수집(크롤링)코드** :  
+- **데이터 수집(크롤링)코드**
   [code](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/KBO_Hitter_data_crawling.py)
-- **데이터 수집 결과** :  
+- **데이터 수집 결과**
   [csv file](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/kbo_Hitter_data.csv)
   ![csv file image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-2.png?raw=true)
 
