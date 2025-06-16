@@ -36,9 +36,9 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
   [KBO Player Hitter Stats](https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx?sort=HRA_RT)
 - 데이터 수집 방법
   ![python, selenium image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image.png?raw=true)
-- **데이터 수집(크롤링)코드 URL** :  
+- **데이터 수집(크롤링)코드** :  
   [code](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/KBO_Hitter_data_crawling.py)
-- **데이터 수집 결과 URL** :  
+- **데이터 수집 결과** :  
   [csv file](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Collection_Refinement/kbo_Hitter_data.csv)
   ![csv file image](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/images/image-2.png?raw=true)
 
