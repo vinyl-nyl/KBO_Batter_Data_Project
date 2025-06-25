@@ -54,8 +54,6 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
 - 연도별 주요 타격 지표(타율, 홈런, 장타율 등)의 평균값과 변화 추이를 시각화합니다.
 
 - 팀별, 시즌별 성적을 비교 분석하여 리그 트렌드를 도출합니다.
-- **데이터 분석 노트**
-[code](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Prediction_Analysis_Visualization/KBO_Hitter_Analysis_Trend.ipynb)
 
 ### 4️⃣ 데이터 예측
 - 머신러닝 기법(랜덤 포레스트, XGBoost 등)을 사용하여 미래 타격 성적 예측:
@@ -63,9 +61,6 @@ KBO 리그의 방대한 데이터를 활용하여 과거의 리그 트렌드와 
   - **2025 시즌 타율 범위**: 0.245 ~ 0.281
 
   - 팀 간 성적 격차 분석
-
-  - **데이터 예측 노트**
-  [code](https://github.com/vinyl-nyl/KBO_Batter_Project/blob/main/Data_Prediction_Analysis_Visualization/batting_average_prediction.ipynb)
 
 ### 5️⃣ 데이터 시각화
 - 분석 결과를 시각적으로 표현하여 리그 트렌드와 예측 성적을 명확히 전달합니다:
